@@ -1,2 +1,2 @@
 # ALS_RGB
-Ambient Light Sensor controlling an RGB-LED
+Ambient Light Sensor controlling a RGB-LED
